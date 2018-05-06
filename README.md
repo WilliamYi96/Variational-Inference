@@ -3,7 +3,7 @@ The beginning of my journey of Approximate Bayesian Inference
 
 ## Step One: Start the Journey
 ### Basic Concepts
-1. Probabilisity Theory [pdf(high-level)](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) [[pdf(more detailed)]](http://cs229.stanford.edu/section/cs229-prob.pdf)                         
+1. Probabilisity Theory [[pdf(high-level)]](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) [[pdf(more detailed)]](http://cs229.stanford.edu/section/cs229-prob.pdf)                         
 2. Convex Optimization [[pdf]](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)
 
 ### Books for Reference
@@ -11,4 +11,8 @@ The beginning of my journey of Approximate Bayesian Inference
 2. Convex Optimization [[pdf]](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) [**Note:** A little difficult to read, good for reference concerning convex optmization]
 
 ## Step Two: Understand Basic Concepts of VI
-1. From MLE (Maximum Likelihood Estimation) to EM (Expectation Maximization) [[blog-cn]](https://blog.csdn.net/zouxy09/article/details/8537620)
+1. From **MLE** (Maximum Likelihood Estimation) to **EM** (Expectation Maximization) [[blog-cn]](https://blog.csdn.net/zouxy09/article/details/8537620) [[cs229--more theoretical]](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
+
+## Step Three: Paper Reading
+1. Advances in Variational Inference. [[notes]]() [[arkiv]](https://arxiv.org/abs/1711.05597)
+2. Bayesian Dark Knowledge. [[notes]]() [[arkiv]](https://arxiv.org/abs/1506.04416)
