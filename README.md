@@ -4,7 +4,7 @@ The beginning of my journey of Approximate Bayesian Inference
 ## Step One: Start the Journey
 ### Basic Concepts
 1. [Probabilisity Theory](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) 
-//[[pdf(more detailed)]](http://cs229.stanford.edu/section/cs229-prob.pdf)                         
+<>([[pdf(more detailed)]](http://cs229.stanford.edu/section/cs229-prob.pdf))                         
 2. [Convex Optimization](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)
 ### Resources
 1. [Machine Learning Course -- Stanford CS229](http://cs229.stanford.edu/), containing the basic concepts of ML.
