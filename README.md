@@ -13,6 +13,9 @@ The beginning of my journey of Approximate Bayesian Inference
 ## Step Two: Understand Basic Concepts of VI
 1. From **MLE** (Maximum Likelihood Estimation) to **EM** (Expectation Maximization) [[blog-cn]](https://blog.csdn.net/zouxy09/article/details/8537620) [[cs229--more theoretical]](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
 
+## Resources
+1. [UCI small dataset](http://archive.ics.uci.edu/ml/index.php), it contains a large collection of standard datasets for testing learning algorithms.
+
 ## Step Three: Paper Reading
 1. Advances in Variational Inference. [[notes]]() [[arkiv]](https://arxiv.org/abs/1711.05597)
 2. Bayesian Dark Knowledge. [[notes]]() [[arkiv]](https://arxiv.org/abs/1506.04416)
